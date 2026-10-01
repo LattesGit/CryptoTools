@@ -47,7 +47,7 @@ pip install -r requirements.txt
 ## USAGE
 
 ```bash
-python3 crypto_tool.py
+python3 main.py
 ```
 
 example:
